@@ -1,0 +1,13 @@
+#Custom gitignore for CMUSphinx model
+
+enghin.html
+bwaccumdir/
+feat/
+logdir/
+model_architecture/
+model_parameters/
+qmanager/
+result/
+trees/
+wav/
+!wav/.gitkeep
