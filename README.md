@@ -8,7 +8,7 @@ Currently this model only uses the English phoneme set to represent all words. H
 
 ## Contents
 - A dictionary consisting of ~6300 words
-- An LN made using SRILM that contains %0% training data phrases and 50% common hindi phrases
+- An LM made using SRILM that contains 50% training data phrases and 50% common hindi phrases
 - A training transcription made of ~2600 sentences / phrases
 - Almost all of the segmented .wav files used to build the model (divided according to speaker)
 - CMUSphinx model options
